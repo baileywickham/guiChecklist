@@ -7,4 +7,4 @@ class TestMethods(unittest.TestCase):
         self.assertEqual(input("is the above text red?"), "yes")
 
 if __name__ == '__main__':
-    unittest.main() 
+    nittest.main() 

@@ -56,7 +56,7 @@ def color(text, color):
 
 
 def main():
-    lastUpdatedDate(True)
+    ld = lastUpdatedDate(True)
     update(input("Enter an ordernumber: "))
     input('\n' + "enter the number of the one you would like to change")
 
